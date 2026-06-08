@@ -196,7 +196,9 @@ window.addEventListener("keydown", (e) => {
           }"
         >
           <td class="h-min px-2 py-1">{{ index + 1 }}</td>
-          <td class="px-2 py-1">{{ item.description }}</td>
+          <td class="px-2 py-1" contenteditable>
+            {{ item.description }}
+          </td>
           <td class="px-2 py-1 text-right">
             <input
               type="text"
@@ -272,7 +274,11 @@ window.addEventListener("keydown", (e) => {
             Bank IFSC code: SBINO02512 <br />
           </td>
           <td class="whitespace-nowrap text-center" colspan="2">
-            <img src="../assets/sign.png" alt="sign" class="h-12 mx-auto mb-1" />
+            <img
+              src="../assets/sign.png"
+              alt="sign"
+              class="h-12 mx-auto mb-1"
+            />
             Authorised Signature
           </td>
         </tr>
