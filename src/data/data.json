@@ -1,0 +1,110 @@
+[
+  {
+    "id": "EPE-SQ-72x36x3",
+    "description": "Mattress Size - 72x36x3\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 1900
+  },
+  {
+    "id": "EPE-SQ-72x36x4",
+    "description": "Mattress Size - 72x36x4\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 2100
+  },
+  {
+    "id": "EPE-SQ-72x36x5",
+    "description": "Mattress Size - 72x36x5\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 2600
+  },
+  {
+    "id": "EPE-SQ-72x48x3",
+    "description": "Mattress Size - 72x48x3\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 1250
+  },
+  {
+    "id": "EPE-SQ-72x48x4",
+    "description": "Mattress Size - 72x48x4\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 1400
+  },
+  {
+    "id": "EPE-SQ-72x48x5",
+    "description": "Mattress Size - 72x48x5\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 1750
+  },
+  {
+    "id": "EPE-DQ-72x36x3",
+    "description": "Mattress Size - 72x36x3\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 2400
+  },
+  {
+    "id": "EPE-DQ-72x36x4",
+    "description": "Mattress Size - 72x36x4\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 3000
+  },
+  {
+    "id": "EPE-DQ-72x36x5",
+    "description": "Mattress Size - 72x36x5\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 3600
+  },
+  {
+    "id": "EPE-DQ-72x48x3",
+    "description": "Mattress Size - 72x48x3\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 1600
+  },
+  {
+    "id": "EPE-DQ-72x48x4",
+    "description": "Mattress Size - 72x48x4\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 2000
+  },
+  {
+    "id": "EPE-DQ-72x48x5",
+    "description": "Mattress Size - 72x48x5\" (EPE Mattress)",
+    "hsnCode": "9404",
+    "rate": 2400
+  },
+  {
+    "id": "EPEFOAM-DQ-72x36x4",
+    "description": "Mattress Size - 72x36x4\" (EPE + Foam Mattress)",
+    "hsnCode": "9404",
+    "rate": 3500
+  },
+  {
+    "id": "EPEFOAM-DQ-72x36x5",
+    "description": "Mattress Size - 72x36x5\" (EPE + Foam Mattress)",
+    "hsnCode": "9404",
+    "rate": 3950
+  },
+  {
+    "id": "REBONDED-72x36x4",
+    "description": "Mattress Size - 72x36x4\" (Pure Rebonded Mattress)",
+    "hsnCode": "9404",
+    "rate": 8000
+  },
+  {
+    "id": "REBONDED-72x36x5",
+    "description": "Mattress Size - 72x36x5\" (Pure Rebonded Mattress)",
+    "hsnCode": "9404",
+    "rate": 9150
+  },
+  {
+    "id": "REBONDEDFOAM-72x36x4",
+    "description": "Mattress Size - 72x36x4\" (Rebonded + Foam Mattress)",
+    "hsnCode": "9404",
+    "rate": 7500
+  },
+  {
+    "id": "REBONDEDFOAM-72x36x5",
+    "description": "Mattress Size - 72x36x5\" (Rebonded + Foam Mattress)",
+    "hsnCode": "9404",
+    "rate": 8650
+  }
+]
